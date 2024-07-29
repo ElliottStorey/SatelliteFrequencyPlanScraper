@@ -1,0 +1,5 @@
+pdfplumber
+matplotlib
+jsonschema
+bs4
+requests
